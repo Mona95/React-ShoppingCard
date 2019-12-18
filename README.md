@@ -1,4 +1,5 @@
-## Used json-server to create fake api .
+## Local API
+`json-server ./public/db.json --port 8000`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
