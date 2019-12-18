@@ -1,5 +1,5 @@
 ## Local API
-`json-server ./public/db.json --port 8000`
+`json-server ./public/db.json --port 8000` </br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
